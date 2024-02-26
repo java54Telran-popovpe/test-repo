@@ -1,7 +1,4 @@
 123456
 5454
-<<<<<<< HEAD
 hello my friends
-=======
 retrt!!!
->>>>>>> sprint2
