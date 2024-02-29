@@ -1,4 +1,3 @@
-new file number 2
 hello universe!
 hello misha
 hello petr!
